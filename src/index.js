@@ -5,8 +5,8 @@ let news2Title = document.querySelector(".news2-title");
 let news2Desc = document.querySelector(".news2-desc");
 
 // * CHANGE THIS
-news1Title.textContent = "(12/3/26) C.J. leaks lovers.";
-news1Desc.innerHTML = "Cheah Jason has leaked 6Hs' couples and lovers, more and more gets angry at him. He has <span class=\"read-more\">Read More...</span>";
+news1Title.textContent = "(12/3/26) The JYQK situation is getting more and more intense";
+news1Desc.innerHTML = "Jacqueline Quadri and Yacoub Kaczmar are into the danger zone, people already tryi<span class=\"read-more\">Read More...</span>";
 news2Title.textContent = "(13/3/26) The Ah Beng's";
 news2Desc.innerHTML = "Today is Ah Beng day! Ah Beng was popularized by Zi Yee, everybody now is saying it lik <span class=\"read-more\">Read More...</span>";
 

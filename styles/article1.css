@@ -5,3 +5,15 @@ body, html {
     background-attachment: fixed !important;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 150px;
+}
+
+.actual-names {
+    display: none;
+    font-weight: bolder;
+}
