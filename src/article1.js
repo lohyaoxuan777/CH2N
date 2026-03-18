@@ -4,7 +4,8 @@ let pastDegree = 360;
 let html = document.querySelector("*");
 html.style.background = `linear-gradient(77deg, #fc2d21, #7b89d4ff)`;
 setInterval(() => {
-    let hexCodes = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "a", "b", "c", "d", "e", "f"]
+    let hexCodes = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", 
+                    "a", "b", "c", "d", "e", "f"];
     let color1 = "";
     let color2 = "";
     let degree = 72837;
@@ -28,7 +29,29 @@ let story = document.querySelector(".story");
 let actualNameDiv = document.querySelector(".actual-names");
 
 actualNameDiv.style.display = "flex";
-date.textContent = "12/3/2026";
-title.textContent = "The JYQK situation is getting more and more intense";
-document.title = "The JYQK situation is getting more and more intense";
-story.innerHTML = `Jacqueline Quadri and Yacoub Kaczmar are going into the danger zone, people already trying to seperate them. <br><br>Recap, back in November 2025, Jacqueline and Yacoub was found dating and messaging intimate messages to each other. People was outraged, and Yacoub reputation went downhill. But in January 2026, after the holidays, they were found texting even more intimate messages during a visit to a Buddhist temple. The fact is, Jacqueline and Yacoub denies any accusations, even though their chats were leaked in December and January respectfully. Some people in 6M are making jokes of the relationship, and Yacoub is beating them up for that. Most notablly, Jackson Lanier getting beat up for "no reason" according to him. And recently during a visit to the school library, Jackson and Yermanez Hermatino got permission from Yacoub to readv their chats in 3 seconds, but they can read super fast. And what they read instantly shocked them to their core. The messages included <span style="color: red">"An error has occured while loading this font. Please reload the page</span>". Of course, Yacoub had to made them promise not to share with others and the media, so we put our guesses on the high-stakes texts. \n Other to that though, no known verified sources did we get our hands on.`
+date.textContent = "17/3/2026";
+title.textContent = "The Holiday homework";
+document.title = "The Holiday homework";
+story.innerHTML = `For holidays, it means a short or long break from school for some people. 
+<br><br>But for students that go to daycares', and the 5th and 6th grades', it means homework, 
+daycare even during the holidays, and hiding all of the infinite homework in your shower 
+bag. So, most people finish their holiday homework as soon as they get home, or spread the 
+homework thru several days. However for daycares students, they only finish their 
+holiday homework in the nick of time. <br><br> Why do this though? It's because to avoid 
+the daycare teachers to punish them if they can't finish all of them on time. Students that 
+go to their homes usually do their homework, rest for a bit, then continue to do it until 
+7:30pm. But the daycare centres force you to do the homework without rest and with a fixed 
+time limit of normally 6-6:59pm. This limits forces you do the homework all at once, 
+scientific research show the opposite though. As prolonged/chronic stress increases white 
+blood cells in their acute phase of inflammation to circulate all throughout the body. In the 
+end, amplifying the immune response by recruiting more cells, increasing vascular 
+permeability, and promoting further white blood cells to migrate and bond. In summary, 
+persistent activation during chronic inflammation can lead to the immune system to be damaged
+and can lead to numerous long-term health risks. <br><br>However, doing the holiday homework 
+last minute doesn't help to, as you constantly stress about your parents to tell you to go
+to sleep already, and how much homework there are left. So, most 6th graders now do most
+of their easy holiday homework in school, and finish the much harder, much energy-consuming
+homework last-minute.<br><br>This article is to warn the teachers about giving too much 
+holiday homework though, as stress causes health-risks making you sick, the attendance rate
+goes down, prompting the attendance award to go to much lower grades.
+`

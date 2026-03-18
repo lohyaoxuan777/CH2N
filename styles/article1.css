@@ -10,10 +10,16 @@ body, html {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 0px 150px;
+    padding: 0px 100px;
 }
 
 .actual-names {
     display: none;
     font-weight: bolder;
+}
+
+@media screen and (width <= 730px) {
+    .container {
+        padding: 0px;
+    }
 }

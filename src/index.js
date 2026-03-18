@@ -5,8 +5,8 @@ let news2Title = document.querySelector(".news2-title");
 let news2Desc = document.querySelector(".news2-desc");
 
 // * CHANGE THIS
-news1Title.textContent = "(13/3/26) The JYQK situation is getting more and more intense";
-news1Desc.innerHTML = "Jacqueline Quadri and Yacoub Kaczmar are into the danger zone, people already tryi<span class=\"read-more\">Read More...</span>";
+news1Title.textContent = "(13/3/26) The Holiday Homework";
+news1Desc.innerHTML = "For holidays, it means a short or long break from school for some people. But for s<span class=\"read-more\">Read More...</span>";
 news2Title.textContent = "(16/3/26) KH Food";
 news2Desc.innerHTML = "KH food has been regarded as the \"best food money can buy\", according to the pa<span class=\"read-more\">Read More...</span>";
 
