@@ -3,6 +3,7 @@ body, html {
     color: #fff;
     background-repeat: no-repeat !important;
     background-attachment: fixed !important;
+    overflow-x: hidden;
 }
 
 .container {
@@ -28,4 +29,27 @@ body, html {
 span.read-more {
     color: #92d4ff;
     text-decoration: underline;
+}
+
+.shoutout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer {
+    padding: 15px 20px;
+    background: black;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    right: -50%;
+    width: 1950px
+}
+
+.footer span {
+    position: relative;
+    bottom: -50%;
+    right: -40%;
 }
