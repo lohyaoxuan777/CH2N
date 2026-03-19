@@ -42,3 +42,12 @@ body, html {
     justify-content: center;
     flex-direction: row;
 }
+
+.footer a {
+    color: #add8e6;
+    margin-left: 5px; /* frickin website couldnt work without this */
+}
+
+.footer a:visited {
+    color: #add8e6;
+}
